@@ -1,6 +1,8 @@
 ### learn git
 
-## git status
-## git commit -m "XXX"
-## git add <file>
-## git init
+- git init
+- git status
+- git add <file>
+- git commit -m "XXX"
+- git log
+- git relog
