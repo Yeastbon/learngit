@@ -6,3 +6,4 @@
 - git commit -m "XXX"
 - git log
 - git relog
+- git push origin master
